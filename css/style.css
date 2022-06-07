@@ -1,0 +1,24 @@
+img {
+    width: 15%;
+}
+
+/* Header */
+header{background-color: #a1faf4;}
+
+header .entete {
+    display: flex;
+    justify-content: space-between;}
+
+header .nav li {
+    display: inline-block;
+    margin: 0 15px;}
+
+header ul li {
+    color: black;
+    padding: 20px 0px;}
+
+header ul li a {
+        text-decoration: none;
+        color: black;}
+
+header a:hover {color: blue;}
